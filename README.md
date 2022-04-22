@@ -8,5 +8,5 @@ This is my first project on a basic machine learning algorithm: Linear Regressio
 The visualized Dataset here seems to agree that there is a linear relationship in the dataset. 
 ![My Image](overview.png)
 
-![My Image](prediction with best fit.png)
+![My Second Image](prediction with best fit.png)
 Now, let us see the line of best fit in the validation data.
